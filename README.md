@@ -1,10 +1,7 @@
 <div align="center">
   <h1>Welcome to Mentutor</h1>
 
-<!-- PROJECT LOGO -->
 
-<img src="mentutor.jpg" alt="Logo" width="450" height="auto" />
-</div>
 
 ## 📃About The Project
 
